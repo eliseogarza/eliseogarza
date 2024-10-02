@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hello! My name is Eliseo Garza, and I'm originally from Houston, TX. Currently, I'm an undergraduate student studying computer science at Texas A&M University in College Station, TX graduating in December 2025.
+
+I'm an aspiring Software Engineer with a passion for building efficient, impactful solutions. I enjoy solving complex problems and continuously learning new technologies to expand my knowledge and give back to others.
+
+In my free time, I enjoy working on personal projects, playing soccer, going to the gym, playing ping-pong, or hanging out with friends!
+
 <!--
 **eliseogarza/eliseogarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
